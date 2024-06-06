@@ -2,7 +2,7 @@
 ![ER Diagram](https://github.com/TongKim/fetch-rewards/assets/97964780/683adbe3-40e5-48ea-9e09-9db00fcba2e5)
 _powered by Lucidchart_
 ## Methodologies 
-After creating the tables based on the data model shown in the ERD, upload the Json file to the Snowflake Database's Stage, and then call [Load Data.sql](https://github.com/TongKim/fetch-rewards/load_data.sql) to load the data in Json format to the tables.
+After creating the tables based on the data model shown in the ERD, upload the Json file to the Snowflake Database's Stage, and then call [Load Data.sql](Load Data.sql) to load the data in Json format to the tables.
 
 
 
