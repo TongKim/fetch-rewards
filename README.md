@@ -1,4 +1,4 @@
-## Q3 
+## Q3 Data Quality Findings
 ### Missing key Fields affects the quality and usefulness of the data analysis.
 - users table: missing state, created time, last login time
 - brands table: brand name, category, category code, brand_code
