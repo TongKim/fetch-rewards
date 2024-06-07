@@ -4,16 +4,12 @@ _powered by Lucidchart_
 ## Methodologies 
 After creating the tables based on the data model shown in the ERD, upload the Json file to the Snowflake Database's Stage, and then call ([Load Data.sql](https://github.com/TongKim/fetch-rewards/blob/main/Load%20Data.sql)) to load the data in Json format to the tables.
 
+## Queries
 
-
-
-
-
-
-
+Use Snowflake SQL to run a query to answer all the questions (questions 1-6) as detailed in Queries.sql
 
 ## Data Quality Findings
-_**Using Snowflake Notebook (Python & SQL)**_
+_**Using [Snowflake Notebook (Python & SQL)](https://github.com/TongKim/fetch-rewards/blob/main/Data%20Quality%20Check-Snowflake%20Notebook.ipynb)**_
 ### Missing key Fields affects the quality and usefulness of the data analysis.
 - users table: missing state, created time, last login time
 - brands table: brand name, category, category code, brand_code
