@@ -1,3 +1,9 @@
+![image](https://github.com/TongKim/fetch-rewards/assets/97964780/765e581c-4de4-4e89-bec5-3de6e2ee3d5f)
+
+# Fetch Rewards Coding Exercise - Analytics Engineer
+
+This project is developed and tested in a _Snowflake_ environment, utilizing _Snowflake_'s capabilities to handle large-scale data operations and analytics. 
+
 ## ERD 
 ![ER Diagram](https://github.com/TongKim/fetch-rewards/assets/97964780/683adbe3-40e5-48ea-9e09-9db00fcba2e5)
 _powered by Lucidchart_
@@ -56,3 +62,5 @@ I look forward to discussing these findings and hearing your feedback on how bes
 Best regards,
 
 Tong Jin
+
+
