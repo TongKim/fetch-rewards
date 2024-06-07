@@ -13,6 +13,7 @@ After creating the tables based on the data model shown in the ERD, upload the J
 
 
 ## Data Quality Findings
+_**Using Snowflake Notebook (Python & SQL)**_
 ### Missing key Fields affects the quality and usefulness of the data analysis.
 - users table: missing state, created time, last login time
 - brands table: brand name, category, category code, brand_code
