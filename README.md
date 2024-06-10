@@ -12,7 +12,7 @@ After creating the tables based on the data model shown in the ERD, upload the J
 
 ## Queries
 
-Use Snowflake SQL to run a query to answer all the questions (questions 1-6) as detailed in Queries.sql
+Use Snowflake SQL to run a query to answer all the questions (questions 1-6) as detailed in [Queries.sql](https://github.com/TongKim/fetch-rewards/blob/main/Queries.sql)
 
 ## Data Quality Findings
 _**Using [Snowflake Notebook (Python & SQL)](https://github.com/TongKim/fetch-rewards/blob/main/Data%20Quality%20Check-Snowflake%20Notebook.ipynb)**_
